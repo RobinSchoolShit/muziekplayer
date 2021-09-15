@@ -1,28 +1,4 @@
 * {
     margin: 0;
 }
-body {
-    max-width: 860px;
-    margin: auto;
-}
 
-.zoekbalk {
-    width: 100%;
-    background-color: blue;
-    height: 180px;
-}
-.play {
-    width: 100%;
-    background-color: red;
-    height: 180px;
-}
-.volume {
-    width: 100%;
-    background-color: blue;
-    height: 180px;
-}
-.achtergrondkleur {
-    width: 100%;
-    background-color: red;
-    height: 180px;
-}
